@@ -1,0 +1,57 @@
+.signupa{
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/287/720/53/room-sofa-plant-windows-wallpaper-preview.jpg');
+}
+.signupa{
+    float:left;
+    margin-top: 150px;
+    width:50%;
+    margin-left:50px;
+}
+.signupb{
+    /* float:right;
+    width:50%; */
+    /* margin-top: 60px; */
+    /* margin-left: 200px;
+    margin-bottom: 250px; */
+}
+.first{
+    font-weight: 300;
+    
+    /* background-image: url(https://res.cloudinary.com/stannard-homes/image/fetch/c_fill,g_auto,f_auto,dpr_auto,w_690,h_510/https://s3.ap-southeast-2.amazonaws.com/assets.stannard-homes-2019/app/uploads/2022/12/22135827/Soho-elevation-pic-1.png) transparent no-repeat center; */
+    /* background-color: rgb(199, 103, 30); */
+    box-shadow: inset 0 0 0 100vmax rgba(0, 0, 0, .5);
+    background-position: absolute;
+    /* webkit-backface-visibility: hidden; */
+    backface-visibility: hidden;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 1px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.4), 0 0 0 2000px rgba(12, 13, 31, 0.3);
+    /* left: 50%; */
+    position: absolute;
+    /* top: 50%; */
+    transform: translate3d(-50%, -50%, 0) scale(1, 1);
+    /* width: 90%; */
+    margin-top: 300px;
+    margin-right: 60px;
+    margin-left: 1000px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* max-width: 1000px; */
+    
+}
+.second{
+    color: rgb(24, 23, 23);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: transparent;
+    text-shadow: 0 0 10px white;
+    width: 50%;
+  
+}
+.signinl{
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: large;
+}
