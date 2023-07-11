@@ -1,0 +1,81 @@
+body{
+    background-image: url('https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?cs=srgb&dl=pexels-vecislavas-popa-1643383.jpg&fm=jpg');
+    background-position: fixed center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: black; */
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    height: fit-content;
+    height: auto;
+}
+.first{
+    font-weight: 300;
+    
+    /* background-image: url(https://res.cloudinary.com/stannard-homes/image/fetch/c_fill,g_auto,f_auto,dpr_auto,w_690,h_510/https://s3.ap-southeast-2.amazonaws.com/assets.stannard-homes-2019/app/uploads/2022/12/22135827/Soho-elevation-pic-1.png) transparent no-repeat center; */
+    /* background-color: rgb(199, 103, 30); */
+    box-shadow: inset 0 0 0 100vmax rgba(0, 0, 0, .5);
+    background-position: absolute;
+    /* webkit-backface-visibility: hidden; */
+    backface-visibility: hidden;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 1px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.4), 0 0 0 2000px rgba(12, 13, 31, 0.3);
+    /* left: 50%; */
+    position: absolute;
+    /* top: 50%; */
+    transform: translate3d(-50%, -50%, 0) scale(1, 1);
+    /* width: 90%; */
+    margin-top: 300px;
+    margin-right: 60px;
+    margin-left: 1000px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* max-width: 1000px; */
+    
+}
+.second{
+    color: rgb(24, 23, 23);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: transparent;
+    text-shadow: 0 0 10px white;
+    width: 50%;
+  
+}
+.third{
+    font-stretch: semi-condensed;
+}
+.signini{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15px 50px 30px;
+    border: 2px solid rgb(8, 8, 8);
+    padding-left: 20px; 
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 250px;
+    height: 15px; 
+}
+.signinl{
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: large;
+}
+h4{
+    color:aliceblue
+}
+h1 {
+    font: 400 48px "Lobster", cursive;
+    text-transform: uppercase;
+  }
+.signup1{
+    font-style: oblique;
+    color: rgb(227, 228, 229);
+    font-weight: 100;
+  }
