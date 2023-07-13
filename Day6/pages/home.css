@@ -1,0 +1,94 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  } */
+  
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #ea2a2a;
+  }
+  
+  p {
+    color: #5e34e7;
+    margin-bottom: 20px;
+  }
+#yes{
+    width:25%;
+    float: left;
+    /* margin-left: 100px; */
+    height:280px;
+}
+#no{
+    width:25%;
+    float:left;
+    height:280px;
+    /* margin-left: 450px;
+    margin-top: 1px; */
+    /* margin-left: 200px; */
+  }
+#yes1{
+    width:25%;
+    float: left;
+    /* margin-left: 100px; */
+    height:280px;
+}
+#no1{
+    width:25%;
+    float:left;
+    height:280px;
+    
+    /* margin-left: 450px;
+    margin-top: 1px; */
+    /* margin-left: 200px; */
+  }
+  #head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 400;
+    color: rgb(12, 12, 16);
+    
+  }
+#one{
+    /* float: inherit; */
+    height: auto;
+    /* width: 50%; */
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#twos{
+    /* float: inherit; */
+    height: auto;
+    margin-top: 28%;
+    margin-left: 20px;
+    margin-right: 20px;
+    /* width: 50%; */
+
+  }
+  #yes2{
+    width:25%;
+    float: left;
+    /* margin-left: 100px; */
+    height:280px;
+  }
+  #no2{
+    width:25%;
+    float: left;
+    /* margin-left: 100px; */
+    height:280px;
+  }
+  #yes3{
+    width:25%;
+    float: left;
+    /* margin-left: 100px; */
+    height:280px;
+  }
+  #no3{
+    width:25%;
+    float: left;
+    /* margin-left: 100px; */
+    height:280px;
+  }
