@@ -1,0 +1,37 @@
+/* Nav.css */
+.container-fluid {
+    /* background-color:#71dee6; */
+    color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .x {
+    margin-right: 20px;
+  }
+  
+  .y {
+    margin-left: 20px;
+  }
+  
+  .navbar-collapse {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .navbar-collapse a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .navbar-collapse a:hover {
+    color: #f1f1f1;
+  }
+  .x{
+    padding: 5px;
+  }
+  

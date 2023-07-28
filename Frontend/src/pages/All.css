@@ -1,0 +1,25 @@
+#trial{
+    /* background-color: aqua; */
+    background-image: url('C:\Users\Jerusha Angel K\Desktop\homes\src\assests\Task.jpg');
+    /* padding: 50%; */
+    min-width: 100vw;
+    min-height: 100vh;
+    /* margin: 20%; */
+    /* mix-blend-mode: color-burn; */
+}
+h2{
+    text-shadow :20px;
+    text-decoration: solid;
+    font-display:inherit;
+    color: brown;
+}
+#cal{
+    background-color: antiquewhite;
+    padding-bottom: 50px;
+    float:left;
+    width:50%;
+
+}
+#main{
+    margin-top: 5%;
+}

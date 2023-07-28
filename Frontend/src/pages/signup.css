@@ -1,0 +1,68 @@
+.two{
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/287/720/53/room-sofa-plant-windows-wallpaper-preview.jpg');
+    min-height:100vh;
+    min-width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    scroll-behavior:smooth;
+    padding-bottom: 30px;
+}
+.signupa{
+    /* float:left; */
+    /* margin-left: 20px; */
+     /* margin-top: 20px;  */
+    /* width:50%; */
+    /* margin-left:50px; */
+}
+.signupb{
+    /* float:left;
+    width:50%;
+    margin-left: 500px;
+    margin-top: -350px; */
+    /* /* margin-left: 200px; */
+    /* margin-bottom: 20px;  */
+}
+.first{
+    font-weight: 300;
+    box-shadow: inset 0 0 0 100vmax rgba(0, 0, 0, .5);
+    background-position: absolute;
+    backface-visibility: hidden;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 1px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.4), 0 0 0 2000px rgba(12, 13, 31, 0.3);
+    /* left: 50%; */
+    position: absolute;
+    /* top: 50%; */
+    transform: translate3d(-50%, -50%, 0) scale(1, 1);
+    /* width: 90%; */
+    margin-top: 300px;
+    margin-right: 60px;
+    margin-left: 1000px;
+    margin-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 9px;
+    padding-bottom: 3px;
+    /* max-width: 1000px; */
+    
+}
+.second{
+    color: rgb(24, 23, 23);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: transparent;
+    text-shadow: 0 0 10px white;
+    width: 30%;
+    padding-top: 2px;
+}
+.signinl{
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: large;
+    /* margin-bottom: -30%; */
+    /* margin-left: -100%; */
+}
+.fifth{
+    padding-top: 0px;
+    margin-top: -10%;
+}

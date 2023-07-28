@@ -1,0 +1,114 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  } */
+  .seey{
+
+    /* background-image: url('https://images.pexels.com/photos/8031909/pexels-photo-8031909.jpeg?cs=srgb&dl=pexels-curtis-adams-8031909.jpg&fm=jpg'); */
+    background-color: #E1CEBF;
+    /* background-position: fixed center; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    /* font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    height: auto;
+    size: 100%; */
+    /* height: fit-content;
+    min-height:100vh;
+    min-width: 100vw; */
+}
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #ea2a2a;
+  }
+  
+  p {
+    color: #5e34e7;
+    /* margin-bottom: 20px; */
+  }
+#yes{
+    width:25%;
+    float: left;
+    /* margin-left: 100px; */
+    height:280px;
+}
+#no{
+    width:25%;
+    float:left;
+    height:280px;
+    /* margin-left: 450px;
+    margin-top: 1px; */
+    /* margin-left: 200px; */
+  }
+#yes1{
+    width:25%;
+    float: left;
+    /* margin-left: 100px; */
+    height:280px;
+}
+#no1{
+    width:25%;
+    float:left;
+    height:280px;
+    
+    /* margin-left: 450px;
+    margin-top: 1px; */
+    /* margin-left: 200px; */
+  }
+  #head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 400;
+    color: rgb(12, 12, 16);
+    
+  }
+#one{
+    /* float: inherit; */
+    height: auto;
+    /* width: 50%; */
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#twos{
+    /* float: inherit; */
+    height: auto;
+    margin-top: 28%;
+    margin-left: 20px;
+    margin-right: 20px;
+    /* width: 50%; */
+
+  }
+  #yes2{
+    width:25%;
+    float: left;
+    /* margin-left: 100px; */
+    height:280px;
+  }
+  #no2{
+    width:25%;
+    float: left;
+    /* margin-left: 100px; */
+    height:280px;
+  }
+  #yes3{
+    width:25%;
+    float: left;
+    /* margin-left: 100px; */
+    height:280px;
+  }
+  #no3{
+    width:25%;
+    float: left;
+    /* margin-left: 100px; */
+    height:280px;
+  }
+  #bot{
+    padding-top: 350px;
+    padding-left: 1190px;
+  }
+
+  
